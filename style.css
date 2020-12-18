@@ -1,0 +1,44 @@
+body {
+	background-color: rgb(220, 241, 220);
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#title {
+	text-align: center;
+	color: rgb(27, 94, 27);
+	background-color: rgb(210, 245, 210);
+	padding: 30px;
+	margin-right: 100px;
+	margin-left: 100px;
+}
+
+.img {
+	display: flex;
+	justify-content: center;
+	padding-left: 100px;
+}
+
+.desc {
+	text-align: center;
+	font-style: italic;
+}
+
+#img-caption {
+	font-size: 12px;
+	text-align: center;
+	padding-right: 100px;
+}
+
+.tribute-link {
+	text-align: center;
+}
+
+.bio {
+	margin-left: 70px;
+	margin-right: 70px;
+	line-height: 1.7rem;
+}
+
+#image {
+	border-radius: 0.5rem;
+}
